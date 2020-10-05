@@ -20,6 +20,8 @@ On Sunday, we'll wrap up our discussion of R but looking at reproduible research
 
 For the rest of the week, we'll explore version control and command line tools and then more onto classical statistics.
 
+You can find the introduction to version control in this [readme](https://github.com/MISK-DSI-2020-01/misk-dev-tools/blob/main/materials/03_version_control.md).
+
 ## Schedule
 
 Unless otherwise noted, group session can be accessed in [this Zoom room](https://us02web.zoom.us/j/7012194926)
