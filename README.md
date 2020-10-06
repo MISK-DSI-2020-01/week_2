@@ -7,6 +7,7 @@ Welcome to the second week of the Misk DSI course. This week we'll wrap up on on
 This week you should have the following set up:
 
 1. Set up an account on [GitHub](https://www.github.com/). Share your username with your teaching assisstant on Slack. We'll use this to follow your progress throughout the rest of the course.
+1. An introduction to the concept of version control will be on this [Miro board](https://miro.com/app/board/o9J_kj14svU=/).
 
 **Software to install**
 
@@ -20,7 +21,7 @@ On Sunday, we'll wrap up our discussion of R but looking at reproduible research
 
 For the rest of the week, we'll explore version control and command line tools and then more onto classical statistics.
 
-You can find the introduction to version control in this [readme](https://github.com/MISK-DSI-2020-01/misk-dev-tools/blob/main/materials/03_version_control.md).
+You can find the introduction to version control on these [pages](http://scavetta.academy/misk/dev_tools). 
 
 ## Schedule
 
