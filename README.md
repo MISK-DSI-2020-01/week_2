@@ -23,6 +23,16 @@ For the rest of the week, we'll explore version control and command line tools a
 
 You can find the introduction to version control on these [pages](http://scavetta.academy/misk/dev_tools). 
 
+The first chapters for our Statistics module is available [here](http://scavetta.academy/misk/stats/_book/index.html). We'll use a [Miro board](https://miro.com/app/board/o9J_kjFmlrY=/) to discuss the material in our group sessions.
+
+## Profile building exercises
+
+By the end of the week you should be confortable with the basics of working with Git and GitHub. You should also have a public repository of which your trainer and teaching assisstant are collaborators, so that they can push changes there.
+
+You are expected to upload some of the scripts that you have been working on, for example the diamonds, the irrigation and/or the chickwt data set case studies.
+
+For further building your portfolio you can continue to build up Exploratory Data Analysis scripts using data sets obtained from, e.g. [Kaggle](https://www.kaggle.com/) (you'll need an accound to access data) or the publically available data sets from the [tidy tuesday](https://github.com/rfordatascience/tidytuesday) project (This is a GitHub repo, sroll down the readme file to the datasets section.
+
 ## Schedule
 
 Unless otherwise noted, group session can be accessed in [this Zoom room](https://us02web.zoom.us/j/7012194926)
